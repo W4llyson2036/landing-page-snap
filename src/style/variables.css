@@ -1,0 +1,15 @@
+:root {
+  --clr--neutral-white: hsl(0, 0%, 98%);
+  --clr--neutral-Gray: hsl(0, 0%, 41%);
+  --clr--neutral-Black: hsl(0, 0%, 8%);
+
+  --ff-primary: 'Epilogue', sans-serif;
+  --ff-navegation: var(--ff-primary);
+  --ff-body: var(--ff-primary);
+  --ff-button: var(--ff-primary);
+
+  --fs-default: 1.2em;
+
+  --fw-medium: 500;
+  --fw-bold: 700;
+}
