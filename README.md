@@ -4,7 +4,7 @@
 ##  👉 description
 This is a simple landing page challenge from Frontend Mentor. <br>
 **Link demo: <a href="https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5">here 👈</a>** <br>
-**Link challenge: <a href="https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5">here 👈</a>**
+**Link challenge: <a href="https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5" target="_blank">here 👈</a>**
 
 ## 🛠️ technology used
 html <br>
